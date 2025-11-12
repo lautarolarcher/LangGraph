@@ -1,0 +1,9 @@
+Resumen Rápido: Ejecutar un Script con Entorno Virtual
+Sigue estos pasos en orden siempre que vayas a ejecutar tu proyecto de Python que usa un entorno virtual (.venv) 
+y variables .env.
+Paso	Comando a Ejecutar	Explicación
+1. Ir a la carpeta del .venv	"cd /Users/lautarolarcher/Documents/Cosas PC Windows/Data/LangGraph"
+	Debes estar donde está la carpeta .venv.
+2. Activar el entorno	"source .venv/bin/activate"	Esto habilita las librerías instaladas.
+3. Ir a la carpeta del .py	"cd Agents"	Muévete donde está tu código.
+4. Ejecutar el script	python Agent_Bot.py	Usa python, no python3.

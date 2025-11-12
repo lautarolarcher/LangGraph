@@ -1,0 +1,27 @@
+Your Conversation Log:
+You: Hola, soy Lautaro 
+AI: ¡Hola, Lautaro! ¿Cómo estás? ¿En qué puedo ayudarte hoy?
+
+You: Cuanto es 5+5-5*5-5?
+AI: Para resolver esta expresión, debemos seguir el orden de las operaciones, conocido como PEMDAS (paréntesis, exponentes, multiplicación y división, adición y sustracción). La multiplicación y la división se realizan antes que la suma y la resta.
+
+La expresión es:  
+5 + 5 - 5 * 5 - 5
+
+1. Primero, realizamos la multiplicación:  
+   5 * 5 = 25
+
+2. Luego, sustituimos el resultado en la expresión:  
+   5 + 5 - 25 - 5
+
+3. Realizamos las operaciones de izquierda a derecha:  
+   5 + 5 = 10  
+   10 - 25 = -15  
+   -15 - 5 = -20
+
+Por lo tanto, el resultado de la expresión es -20.
+
+You: Como me llamo?
+AI: Dijiste que te llamas Lautaro. Si necesitas ayuda con algo más, ¡avísame!
+
+End of Conversation
