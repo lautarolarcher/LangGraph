@@ -1,0 +1,125 @@
+
+
+## Contexto Operativo
+
+**¿Cuál es la estructura de la operación?**
+
+La operación se divide en dos partes principales. 
+
+Primero está la Recolección, donde debes pasar por direcciones asignadas (1 a 3 por día) para recoger paquetes. La primera recolección debe iniciar a las 12:00 hs en punto. 
+
+Una vez completadas las recolecciones, se deben llevar los paquetes al CEDIS en Gustavo A. Madero. 
+
+La segunda parte es la Ruta de Entrega, donde desde el CEDIS en G.A.M se te asigna la ruta de entrega de paquetes.
+
+**¿Cuál es la ubicación del CEDIS?**
+
+El CEDIS está ubicado en Nte. 82 #4420, Nueva Tenochtitlan, Gustavo A. Madero, Ciudad de México.
+
+**¿Cuánto se paga por ruta?**
+
+Para carros o sedan se pagan $1,000 por ruta con un promedio de 35-40 paquetes. 
+
+Para small van se pagan $1,300 por ruta con el mismo promedio de paquetes. 
+
+Para moto se pagan $800 por ruta también con 35-40 paquetes promedio.
+
+**¿Cuánto se paga por tienda recolectada?**
+
+Se pagan $60 por cada tienda donde se realice recolección.
+
+**¿Cuándo se realiza el pago?**
+
+El pago es semanal a semana vencida, los días jueves. 
+
+Esto significa que si trabajas una semana, se te paga la siguiente semana el jueves.
+
+**¿Qué pasa si facturo?**
+
+Si facturas, se cubre el I.V.A.
+
+**¿Qué pasa si NO facturo?**
+
+Si no facturas, se descuenta el ISR que es aproximadamente el 8%. 
+
+Este es un impuesto del fisco, no de RapidBoy.
+
+**¿A qué hora debo estar en la primera recolección?**
+
+Debes presentarte a las 12:00 hs en punto en la primera dirección de recolección.
+
+**¿A qué hora se despachan las rutas de entrega?**
+
+Las rutas se despachan entre las 14:30 y 15:30 hs. 
+
+No se puede cargar antes de este horario.
+
+**¿Hasta qué hora puedo entregar paquetes?**
+
+Se puede entregar hasta las 23:00 hs.
+
+**¿Qué días se trabaja?**
+
+Se labora de lunes a sábado.
+
+**¿Qué pasa si falto el lunes?**
+
+Si faltas el lunes, el pago pasa a quincenal, porque el lunes es cuando más se necesitan los choferes.
+
+**¿Cuáles son las zonas de cobertura?**
+
+Las zonas de cobertura incluyen: Álvaro Obregón, Atizapán de Zaragoza, Azcapotzalco, Benito Juárez, Coacalco, Coyoacán, Cuauhtémoc, Gustavo A. Madero, Cuautitlán Izcalli, Ecatepec de Morelos, Huixquilucan, Iztacalco, Iztapalapa, Naucalpan de Juárez, Ciudad Satélite, Nezahualcóyotl, Nicolás Romero, Magdalena Contreras, Miguel Hidalgo, Tlalnepantla (Ecatepec), Tecámac, Tláhuac, Tlalpan, Tlalnepantla, Tultepec, Cuautitlán/Melchor Ocampo, Tultitlán, Venustiano Carranza, Xochimilco, Chimalhuacán, La Paz, Chicoloapan, Tepotzotlán, Coyotepec y Teoloyucan.
+
+**¿Cómo funcionan las rutas?**
+
+Las rutas son concentradas y fijas. 
+
+Existen polígonos dentro de los municipios o alcaldías, y cada polígono se asigna a un chofer específico. 
+
+Una vez asignada, la zona queda fija para ese chofer.
+
+**¿Cómo se asignan las recolecciones?**
+
+Las recolecciones se asignan si hay alguna cerca del domicilio del chofer o si queda de camino desde el domicilio al CEDIS.
+
+**¿Qué hago si no puedo entregar un paquete?**
+
+No debes devolverlo al CEDIS el mismo día. 
+
+Debes reintentar la entrega al día siguiente antes de hacer la recolección o ir a la bodega.
+
+**¿Qué aplicaciones debo usar?**
+
+Se deben usar 2 aplicaciones: la app de RapidBoy y la app de Flex.
+
+**¿Necesito ayudante?**
+
+No, no hace falta ayudante.
+
+**¿Quién cubre los gastos de caseta o gasolina?**
+
+Los gastos de caseta y gasolina son por cuenta del chofer.
+
+**¿Qué pasa si pierdo o rompo un envío?**
+
+Si el chofer pierde o rompe un envío, se le descuenta del pago.
+
+**Notas Importantes:**
+
+El horario de salida del CEDIS (14:30-15:30 hs) no se puede anticipar. 
+
+Los pagos son a semana vencida (defasada). 
+
+Las zonas asignadas son fijas por chofer. 
+
+El ISR del 8% es un impuesto gubernamental, no un cargo de RapidBoy. 
+
+La asistencia del lunes es crítica para mantener el esquema de pago semanal.
+
+---
+
+## Datos necesarios para el registro.
+
+**¿Que datos y documentos del chofer son necesarios para comenzar a trabajar?**
+
+Nombre completo, INE o CURP, RFC, domicilio del chofer, municipio o alcaldía en la que vive el chofer, telefono, correo electrónico.

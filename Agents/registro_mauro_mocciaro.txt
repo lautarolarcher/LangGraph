@@ -1,0 +1,10 @@
+Nombre: Mauro
+Apeliido: Mocciaro
+Telefono: 763847983
+Mail: mauro@mail.com
+Rfc: RFC12345678
+Ine: URE267384BFOI029I
+Direccion: Jose Echenique 2035
+Alcaldia/municipio: Benito Juarez
+Vehiculo: Small Van
+Experiencia: Trabajé en MELI

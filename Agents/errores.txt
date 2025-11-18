@@ -7,3 +7,8 @@ Paso	Comando a Ejecutar	Explicación
 2. Activar el entorno	"source .venv/bin/activate"	Esto habilita las librerías instaladas.
 3. Ir a la carpeta del .py	"cd Agents"	Muévete donde está tu código.
 4. Ejecutar el script	python Agent_Bot.py	Usa python, no python3.
+
+
+PODRIA HACER: 
+cd "/Users/lautarolarcher/Documents/Cosas PC Windows/Data/LangGraph/Agents/"
+source .venv/bin/activate

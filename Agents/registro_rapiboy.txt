@@ -1,0 +1,10 @@
+Nombre: Lautaro Larcher
+Apeliido: RFC123456789
+Telefono: Beatriz Galindo 1915
+Mail: Alvaro Obregon
+Rfc: 52559892105
+Ine: lautaro@gmail.com
+Direccion: None
+Alcaldia/municipio: None
+Vehiculo: None
+Experiencia: None
